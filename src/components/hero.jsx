@@ -1,8 +1,9 @@
-function Hero({ title, subtitle }) {
+function Hero() {
   return (
     <div className="hero">
-      <h2>{title}</h2>
-      <p>{subtitle}</p>
+      <h2>Your Crown, Your Confidence.</h2>
+      <p>Professional natural hair services designed for Spelman women.</p>
+      <button className="cta-btn">Browse Services</button>
     </div>
   )
 }
