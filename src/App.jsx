@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import Header from './components/Header'
-import Hero from './components/Hero'
-import ServiceCard from './components/ServiceCard'
-import ProviderCard from './components/ProviderCard'
-import ContactForm from './components/ContactForm'
-import Footer from './components/Footer'
+import Header from './components/Header.jsx'
+import Hero from './components/Hero.jsx'
+import ServiceCard from './components/ServiceCard.jsx'
+import ProviderCard from './components/ProviderCard.jsx'
+import ContactForm from './components/ContactForm.jsx'
+import Footer from './components/Footer.jsx'
 import './App.css'
 
 function App() {
